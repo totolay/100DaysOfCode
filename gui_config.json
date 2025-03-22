@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Run",
+        "image": "",
+        "actions": [
+            "execute",
+            "left"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": "D:/Africa/Maximum.Backend.exe"
+    },
+    {
+        "name": "password",
+        "image": "",
+        "actions": [
+            "type_text"
+        ],
+        "text": "3510100426",
+        "wait_time": "",
+        "executable_path": ""
+    },
+    {
+        "name": "Wait",
+        "image": "",
+        "actions": [
+            "wait"
+        ],
+        "text": "",
+        "wait_time": "3",
+        "executable_path": ""
+    },
+    {
+        "name": "enter",
+        "image": "",
+        "actions": [
+            "enter"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": ""
+    },
+    {
+        "name": "w",
+        "image": "",
+        "actions": [
+            "wait"
+        ],
+        "text": "",
+        "wait_time": "10",
+        "executable_path": ""
+    },
+    {
+        "name": "w",
+        "image": "Screenshot 2025-03-18 153217.png",
+        "actions": [
+            "click"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": ""
+    },
+    {
+        "name": "w",
+        "image": "Screenshot 2025-03-18 153233.png",
+        "actions": [
+            "click"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": ""
+    },
+    {
+        "name": "w",
+        "image": "Screenshot 2025-03-18 153249.png",
+        "actions": [
+            "click"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": ""
+    },
+    {
+        "name": "w",
+        "image": "Screenshot 2025-03-19 200031 - Copy.png",
+        "actions": [
+            "click"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": ""
+    },
+    {
+        "name": "c",
+        "image": "",
+        "actions": [
+            "left"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": ""
+    },
+    {
+        "name": "c",
+        "image": "",
+        "actions": [
+            "enter"
+        ],
+        "text": "",
+        "wait_time": "",
+        "executable_path": ""
+    }
+]
